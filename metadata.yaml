@@ -1,4 +1,8 @@
 _repo: The-Soldier-and-Death-A-Russian-Folk-Tale-Told-in-English-by-Arthur-Ransome_49278
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49278-h/images/cover.jpg
 creator:
   author:
     agent_name: Ransome, Arthur
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/601
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Ransome
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49278#The-Soldier-and-Death-A-Russian-Folk-Tale-Told-in-English-by-Arthur-Ransome
 gutenberg_issued: '2015-06-25'
 gutenberg_type: Text
 identifiers:
